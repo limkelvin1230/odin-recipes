@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(90deg, red, green, blue);
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+img {
+  align-content: center;
+}
+
+ul li {
+  list-style: none;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+ol li {
+  text-align: justify;
+}
